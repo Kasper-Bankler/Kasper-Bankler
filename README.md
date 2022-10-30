@@ -1,5 +1,3 @@
-Star this repo13074
-Fork on GitHub3391
 <h1 align="center">Hi 👋, I'm Kasper Bankler</h1>
 - 🌱 I’m currently learning **Python and C#**
 
