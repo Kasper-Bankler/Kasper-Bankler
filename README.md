@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasper Bankler</h1>
-- 🌱 I’m currently learning **Python and C#**
+- 🌱 I’m currently learning Python and C#
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kasper-Bankler?tab=repositories](https://github.com/Kasper-Bankler?tab=repositories)
 
