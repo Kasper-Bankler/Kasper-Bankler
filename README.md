@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=Kasper-Bankler&style=flat-square&color=blue" alt=""/>
+
 <h1 align="center">Hi 👋, I'm Kasper Bankler</h1>
 
 -  🌱 I’m currently learning C#
