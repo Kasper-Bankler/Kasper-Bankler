@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:kasperbankler@gmail.com"><img align="left" alt="Visual Studio Code" width="26px" src="https://static-00.iconduck.com/assets.00/gmail-icon-256x256-g32f2css.png" style="padding-right:10px;" /></a>
+  <a href="mailto:kasperbankler@gmail.com"><img align="left" alt="Visual Studio Code" width="40px" src="https://static-00.iconduck.com/assets.00/gmail-icon-256x256-g32f2css.png" style="padding-right:10px;" /></a>
 <a href="https://linkedin.com/in/kasper bankler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasper bankler" height="30" width="40" /></a>
 </p>
 
