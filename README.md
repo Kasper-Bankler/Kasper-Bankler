@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasper Bankler</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasper-bankler&label=Profile%20views&color=2020ff&style=flat" alt="kasper-bankler" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#** and **Godot** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kasper-Bankler?tab=repositories](https://github.com/Kasper-Bankler?tab=repositories)
 
