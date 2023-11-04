@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasper Bankler</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasper-bankler&label=Profile%20views&color=2020ff&style=flat" alt="kasper-bankler" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasper-bankler&label=Profile%20views&color=203aff&style=flat" alt="kasper-bankler" /> </p>
 
 - 🔭 I’m currently working on [Lectio Games](https://github.com/Kasper-Bankler/LectioGames)
   
