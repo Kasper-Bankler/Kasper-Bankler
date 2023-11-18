@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lectio Games](https://github.com/Kasper-Bankler/LectioGames)
   
-- 🌱 I’m currently learning **C#** and **Godot** 
+- 🌱 I’m currently learning **C#**, **JavaScript** and **Godot** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kasper-Bankler?tab=repositories](https://github.com/Kasper-Bankler?tab=repositories)
 
