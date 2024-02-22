@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StockWebsite](https://github.com/Kasper-Bankler/StockWebsite)
   
-- 🌱 I’m currently learning **C#**, **JavaScript** and **Godot** 
+- 🌱 I’m currently learning **Django**, **Python** and **Godot** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kasper-Bankler?tab=repositories](https://github.com/Kasper-Bankler?tab=repositories)
 
