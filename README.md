@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasper Bankler</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasper-bankler&label=Profile%20views&color=203aff&style=flat" alt="kasper-bankler" /> </p>
 
-- 🔭 I’m currently working on [StockWebsite](https://github.com/Kasper-Bankler/StockWebsite) and a [Godot game](https://github.com/Kasper-Bankler/ProjectSigma)
+- 🔭 I’m currently working on a [Stock Website](https://github.com/Kasper-Bankler/StockWebsite) and a [Godot game](https://github.com/Kasper-Bankler/ProjectSigma)
   
 - 🌱 I’m currently learning **Django**, **Python** and **Godot** 
 
