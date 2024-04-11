@@ -5,9 +5,9 @@
   
 - 🌱 I’m currently learning **Django**, **Python** and **Godot** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kasper-Bankler?tab=repositories](https://github.com/Kasper-Bankler?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Kasper-Bankler?tab=repositories)
 
-- 📫 How to reach me **kasperbankler@gmail.com**
+- 📫 Feel free to reach me at **kasperbankler@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
